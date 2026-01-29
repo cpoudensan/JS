@@ -1,0 +1,9 @@
+{
+  "name": "flip7",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/flip7.js",
+  "scripts": {
+    "start": "node src/flip7.js"
+  }
+}
